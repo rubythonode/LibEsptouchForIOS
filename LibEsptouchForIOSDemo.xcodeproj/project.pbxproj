@@ -7,16 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		070CB32E1D2BB8E60030654B /* libEsptouch_v0.3.5.1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 070CB32D1D2BB8E60030654B /* libEsptouch_v0.3.5.1.a */; };
 		07B4BD1D1D17D0310094A8EB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 07B4BD1C1D17D0310094A8EB /* main.m */; };
 		07B4BD281D17D0310094A8EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07B4BD271D17D0310094A8EB /* Assets.xcassets */; };
 		07B4BD2B1D17D0310094A8EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07B4BD291D17D0310094A8EB /* LaunchScreen.storyboard */; };
 		07B4BD491D17D1B10094A8EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07B4BD481D17D1B10094A8EB /* Main.storyboard */; };
 		07B4BD4C1D17D1BD0094A8EB /* ESPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 07B4BD4B1D17D1BD0094A8EB /* ESPViewController.m */; };
 		07B4BD531D17D4090094A8EB /* ESPAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 07B4BD521D17D4090094A8EB /* ESPAppDelegate.m */; };
-		07B4BD571D17D71A0094A8EB /* libEsptouch_v0.3.4.3.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 07B4BD561D17D71A0094A8EB /* libEsptouch_v0.3.4.3.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		070CB32D1D2BB8E60030654B /* libEsptouch_v0.3.5.1.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libEsptouch_v0.3.5.1.a; sourceTree = "<group>"; };
 		07B4BD181D17D0310094A8EB /* LibEsptouchForIOSDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LibEsptouchForIOSDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07B4BD1C1D17D0310094A8EB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		07B4BD271D17D0310094A8EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -31,7 +32,6 @@
 		07B4BD4D1D17D2100094A8EB /* ESP_NetUtil.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ESP_NetUtil.h; sourceTree = "<group>"; };
 		07B4BD511D17D4090094A8EB /* ESPAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESPAppDelegate.h; sourceTree = "<group>"; };
 		07B4BD521D17D4090094A8EB /* ESPAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ESPAppDelegate.m; sourceTree = "<group>"; };
-		07B4BD561D17D71A0094A8EB /* libEsptouch_v0.3.4.3.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libEsptouch_v0.3.4.3.a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,7 +39,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				07B4BD571D17D71A0094A8EB /* libEsptouch_v0.3.4.3.a in Frameworks */,
+				070CB32E1D2BB8E60030654B /* libEsptouch_v0.3.5.1.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -49,7 +49,7 @@
 		07B4BD0F1D17D0310094A8EB = {
 			isa = PBXGroup;
 			children = (
-				07B4BD561D17D71A0094A8EB /* libEsptouch_v0.3.4.3.a */,
+				070CB32D1D2BB8E60030654B /* libEsptouch_v0.3.5.1.a */,
 				07B4BD1A1D17D0310094A8EB /* LibEsptouchForIOSDemo */,
 				07B4BD191D17D0310094A8EB /* Products */,
 			);
@@ -318,6 +318,7 @@
 				07B4BD311D17D0310094A8EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
