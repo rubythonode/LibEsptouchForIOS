@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F038F1B93DC7373341517A7959E509EB74B029ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "855AD63D556E786A472AAFD6E65DB31A17F12F2B" : 0,
+    "F038F1B93DC7373341517A7959E509EB74B029ED" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E6ED6580-7A5E-4AC8-89D4-E77636D5A66E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "855AD63D556E786A472AAFD6E65DB31A17F12F2B" : "",
+    "F038F1B93DC7373341517A7959E509EB74B029ED" : "LibEsptouchForIOSDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LibEsptouchForIOSDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LibEsptouchForIOSDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitshell.com\/afun\/IOT-Espressif-iOS-Suite.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "855AD63D556E786A472AAFD6E65DB31A17F12F2B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:EspressifApp\/LibEsptouchForIOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F038F1B93DC7373341517A7959E509EB74B029ED"
+    }
+  ]
+}
